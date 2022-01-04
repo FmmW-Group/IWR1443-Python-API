@@ -3,8 +3,10 @@
 代码修改自[仓库](https://github.com/ibaiGorordo/IWR1443-Read-Data-Python-MMWAVE-SDK-1)，目前代码适用于使用sdk1.xx以及sdk2.xx的所有IWR1443boost版本。
 
 # Quick Start
-安装pyserial
-```pip install pyserial```
+安装pyserial和numpy
+```pip install pyserial, numpy```
+
+
 运行代码：
 ```python ReadIWRSDK2.py```
 
